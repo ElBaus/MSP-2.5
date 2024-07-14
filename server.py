@@ -12,7 +12,7 @@
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
 # in		      India (Mumbai)
-# jp		      Japón (Tokyo)
+# jp		      Japón (Tokyo)stop
 # sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
